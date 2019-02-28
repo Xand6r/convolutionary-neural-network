@@ -1,1 +1,1 @@
-# convolutionary-neural-network
+# Embeddings-for-Word2Vec
